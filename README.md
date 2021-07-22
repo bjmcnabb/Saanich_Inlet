@@ -1,6 +1,6 @@
 # Saanich_Inlet
 
-Scripts that analyzes a 7-year timeseries of biochemical observations from Saanich Inlet, Victoria BC.
+Scripts that analyzes a 8-year timeseries of biochemical observations from Saanich Inlet, Victoria BC.
 
 Relevant Publication: *In-progress.*
 
